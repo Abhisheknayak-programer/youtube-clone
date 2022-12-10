@@ -48,8 +48,8 @@ const VideoDetails = () => {
             <Stack
               direction="row"
               justifyContent="space-between"
-              sx={{ color: "#fff" }}
-              py={1}
+              sx={{ color: "#fff", marginTop: "-10px" }}
+              py={0}
               px={2}
             >
               <Link to={`/channel/${channelId}`}>
