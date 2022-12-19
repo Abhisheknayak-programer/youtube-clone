@@ -1,6 +1,16 @@
+## About The Web Application 
+
+YouTube Clone is a Clone of YouTube which consist of some functionalities of YouTube like see recent feed, search videos, see likes and views on a video, see related videos, play, pause, change time of a video, change quality of a video, see subtitles, add video to watch later and a video can also be shared and a channel page can also be viewed.
+
+
+
 ## Available Scripts
 
 In the project directory, you can run:
+
+### `npm install`
+
+It will add node_module folder with all the dependencies that are needed in the project.
 
 ### `npm start`
 
